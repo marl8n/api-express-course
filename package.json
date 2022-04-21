@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/marl8n/api-express-course/issues"
   },
-  "homepage": "https://github.com/marl8n/api-express-course#readme"
+  "homepage": "https://github.com/marl8n/api-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2"
+  }
 }
